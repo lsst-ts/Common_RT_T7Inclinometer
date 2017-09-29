@@ -10,6 +10,7 @@
 		<Item Name="T7InclinometerErrors.ctl" Type="VI" URL="../DataTypes/T7InclinometerErrors.ctl"/>
 		<Item Name="T7InclinometerResponses.ctl" Type="VI" URL="../DataTypes/T7InclinometerResponses.ctl"/>
 		<Item Name="T7InclinometerTelemetry.ctl" Type="VI" URL="../DataTypes/T7InclinometerTelemetry.ctl"/>
+		<Item Name="T7InclinometerTimestamps.ctl" Type="VI" URL="../DataTypes/T7InclinometerTimestamps.ctl"/>
 	</Item>
 	<Item Name="T7Inclinometer.lvclass" Type="LVClass" URL="../T7Inclinometer/T7Inclinometer.lvclass"/>
 </Library>
